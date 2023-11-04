@@ -1,6 +1,6 @@
 # **Trainee 2023.2**
 
-# **Nome do seu blog**
+# **Hello, World!**
 
 ## **Projeto Trainee, Code Jr, Grupo 000, 2023.2**
 
@@ -13,21 +13,21 @@
 
 #### Desenvolvedores:
 
-* Trainee 1
-* Trainee 2
-* Trainee 3
-* Trainee 4
-
+* Paulo Aquino
+* João Paulo
+* Gustavo Duarte
+* João Pedro Daniel
+* Lucas Gonçalves
 
 #### Scrum Master:
 
-* [Nome do Scrum](coloque o link do github, se quiser).
+* [Ricardo Ervilha Silva](https://github.com/ricardo-ervilha)
 
 #### Links Úteis:
 
-* [Trello]()
+* [Trello](https://trello.com/b/lxO7P17i/trello-do-scrum-20232-hello-world)
 
-* [Drive com ID Visual]()
+* [Drive com ID Visual](https://drive.google.com/drive/folders/19KODxdHD1W-VzCqisiDAZSKPZ597dvTM?usp=sharing)
 
 
 
